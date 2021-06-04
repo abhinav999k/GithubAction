@@ -1,1 +1,3 @@
-Github Action workflow
+Github Action workflow:
+
+Run few commands
