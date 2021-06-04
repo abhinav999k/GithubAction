@@ -1,9 +1,9 @@
 name : Shell commands
 on : push
-jobs:
-  running-shell-commands:
+jobs :
+  running-shell-commands :
     runs-on : ubuntu-latest
-    steps: 
+    steps : 
       - name : echo a string
         run  : echo "Step 1 Running"
       - name : running multi line script
